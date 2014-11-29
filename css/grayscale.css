@@ -5,6 +5,7 @@
  */
 
 
+
 video
 {
 position: fixed;
@@ -379,7 +380,9 @@ ul.banner-social-buttons {
 }
 
 footer {
-    padding: 50px 0;
+    bottom: 20px;
+    position: relative;
+    text-align:center;
 }
 
 footer p {
